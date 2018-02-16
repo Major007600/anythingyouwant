@@ -1,0 +1,199 @@
+body{
+  margin:0;
+}
+.main-nav{
+  height:70px;
+  width: 100%;
+  background-color:rgb(238,304,256) ;
+}
+.logo{
+  height:100%;
+  
+}
+.nav-list{
+  float:right;
+  list-style:none;
+  
+}
+.nav-item{
+  float:right;
+  margin: 15px;
+}
+.nav-link{
+  color:orange;
+  text-decoration:none;
+}
+/* Start of hero styles */
+.hero-section {
+  height: 500px;
+  background-image: url('../images/moving-fire.jpg');
+  background-size: 100% 100%;
+  background-position: center center;
+  }
+  .hero-text {
+    margin-top: 0px;
+    padding-top: 200px;
+    text-align: center;
+    color: #ffffff;
+    }
+    .text-background {
+      background-color: rgb(0, 0, 0, .5);
+      padding: 10px;
+      }
+/* End of hero styles */
+
+/* Start column styles */
+.container {
+  height: 350px;
+  padding: 2.25% 0;
+  }
+  .column {
+    height: 744px;
+    width: 30%;
+    border: 1px solid #000001;
+    float: left;
+    text-align: center;
+    margin-left: 2.25%;
+    
+    }
+.column-image {
+  width: 100%;
+  } 
+/* End column style*/
+.main-box {
+  height: 150px;
+  width: 150px;
+}
+
+.box {
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+
+.circle-background {
+  background-color: blue;
+  border-radius: 100%;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clear-left {
+  clear: left;
+}
+
+.clear-right {
+  clear: right;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.center-text {
+  padding-top: 13px;
+  color: #fafafa;
+}
+.main-footer{
+  height:70px;
+  width: 100%;
+  background-color:purple; 
+}
+
+.footer-section{
+  height:70px;
+  width: 100%;
+  background-color:purple;
+  }
+
+.main-box{
+  height: 150px;
+  width: 150px;
+}
+  
+.box {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+} 
+.contact-column{
+  width: 50%;
+  text-align: center;
+  float: left;
+}
+
+.form-container{
+  width: 50%;
+}
+
+.map-container{
+  width:75%;
+  margin:0 auto;
+  
+}
+  
+    
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+/*start footer styles*/
+.main-footer{
+height:150px;
+boarder-top:1px solid #000000;
+}
+.footer-section{
+width:33%;
+boarder-right:1px solid #000000;
+float:left;
+height:100%;
+}
+/*end footer styles*/
+
+
